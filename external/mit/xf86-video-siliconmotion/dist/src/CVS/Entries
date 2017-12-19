@@ -1,0 +1,26 @@
+/Makefile.am/1.1.1.4/Mon Jun  3 08:43:19 2013//Tnetbsd-8
+/Makefile.in/1.1.1.9/Sun Mar  5 01:40:02 2017//Tnetbsd-8
+/compat-api.h/1.1.1.2/Sun Mar  5 01:40:02 2017//Tnetbsd-8
+/regsmi.h/1.1.1.2/Wed Jun 10 06:41:36 2009//Tnetbsd-8
+/smi.h/1.9/Tue May 30 15:55:25 2017//Tnetbsd-8
+/smi501_crtc.c/1.1.1.1/Wed Jun 10 06:41:36 2009//Tnetbsd-8
+/smi501_output.c/1.1.1.1/Wed Jun 10 06:41:36 2009//Tnetbsd-8
+/smi_501.c/1.1.1.2/Sat Aug 22 00:04:37 2009//Tnetbsd-8
+/smi_501.h/1.1.1.1/Wed Jun 10 06:41:36 2009//Tnetbsd-8
+/smi_accel.c/1.1.1.3/Mon Jul 20 00:02:26 2015//Tnetbsd-8
+/smi_crtc.c/1.1.1.2/Sat Jul 23 08:12:10 2011//Tnetbsd-8
+/smi_crtc.h/1.1.1.1/Wed Jun 10 06:41:36 2009//Tnetbsd-8
+/smi_dac.c/1.1.1.2/Wed Jun 10 06:41:36 2009//Tnetbsd-8
+/smi_driver.c/1.9/Sun Mar  5 01:42:54 2017//Tnetbsd-8
+/smi_exa.c/1.1.1.5/Sun Mar  5 01:40:02 2017//Tnetbsd-8
+/smi_i2c.c/1.1.1.3/Mon Jul 20 00:02:26 2015//Tnetbsd-8
+/smi_output.c/1.1.1.2/Sat Jul 23 08:12:10 2011//Tnetbsd-8
+/smi_pcirename.h/1.1.1.1/Wed Jun 10 06:41:36 2009//Tnetbsd-8
+/smi_video.c/1.1.1.6/Mon Jul 20 00:02:26 2015//Tnetbsd-8
+/smi_video.h/1.1.1.2/Wed Jun 10 06:41:36 2009//Tnetbsd-8
+/smi_xaa.c/1.1.1.4/Sun Mar  5 01:40:02 2017//Tnetbsd-8
+/smilynx.h/1.1.1.1/Wed Jun 10 06:41:36 2009//Tnetbsd-8
+/smilynx_crtc.c/1.2/Thu Feb 28 12:39:37 2013//Tnetbsd-8
+/smilynx_hw.c/1.4/Mon Jul 20 00:10:28 2015//Tnetbsd-8
+/smilynx_output.c/1.2/Thu Feb 28 12:39:37 2013//Tnetbsd-8
+D

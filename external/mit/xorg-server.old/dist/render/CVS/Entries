@@ -1,0 +1,18 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/animcur.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/filter.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/glyph.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/glyphstr.h/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/matrix.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/miindex.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/mipict.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/mipict.h/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/mirect.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/mitrap.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/mitri.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/picture.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/picture.h/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/picturestr.h/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/render.c/1.1.1.1.2.1/Wed Nov  8 03:09:47 2017//Tnetbsd-8
+D

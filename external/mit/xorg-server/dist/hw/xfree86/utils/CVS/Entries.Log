@@ -1,0 +1,12 @@
+A D/ioport////
+A D/kbd_mode////
+A D/pcitweak////
+A D/scanpci////
+A D/xorgcfg////
+A D/xorgconfig////
+R D/xorgconfig////
+R D/xorgcfg////
+R D/scanpci////
+R D/pcitweak////
+R D/kbd_mode////
+R D/ioport////

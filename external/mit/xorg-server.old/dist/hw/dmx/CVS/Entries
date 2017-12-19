@@ -1,0 +1,54 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmx-config.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmx.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmx.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmx_glxvisuals.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmx_glxvisuals.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxcb.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxcb.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxclient.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxcmap.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxcmap.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxcursor.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxcursor.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxdpms.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxdpms.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxextension.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxextension.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxfont.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxfont.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxgc.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxgc.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxgcops.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxgcops.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxinit.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxinit.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxinput.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxinput.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxlog.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxlog.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxpict.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxpixmap.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxpixmap.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxprop.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxprop.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxscrinit.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxscrinit.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxshadow.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxshadow.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxstat.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxstat.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxsync.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxsync.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxvisual.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxvisual.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxwindow.c/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+/dmxwindow.h/1.1.1.1/Thu Jun  9 09:07:57 2016//Tnetbsd-8
+D/config////
+D/doc////
+D/examples////
+D/glxProxy////
+D/input////
+D/man////
+/dmxpict.c/1.1.1.1.2.1/Wed Nov  8 03:09:47 2017//Tnetbsd-8

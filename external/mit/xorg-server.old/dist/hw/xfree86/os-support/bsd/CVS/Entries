@@ -1,0 +1,17 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/alpha_video.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/arm_video.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/bsd_VTsw.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/bsd_apm.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/bsd_axp.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/bsd_bell.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/bsd_ev56.c/1.2/Mon Feb 20 15:25:32 2017//Tnetbsd-8
+/bsd_init.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/bsd_kmod.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/bsd_kqueue_apm.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/i386_video.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/memrange.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/ppc_video.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/sparc64_video.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+D

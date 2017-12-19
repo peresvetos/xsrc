@@ -1,0 +1,9 @@
+/50-vmmouse.conf/1.1.1.1/Sat May 22 09:48:32 2010//Tnetbsd-8
+/69-xorg-vmmouse.rules.in/1.1.1.2/Sat Aug 14 08:30:07 2010//Tnetbsd-8
+/Makefile.am/1.1.1.6/Mon Jul 20 01:47:16 2015//Tnetbsd-8
+/Makefile.in/1.1.1.6/Mon Jul 20 01:47:16 2015//Tnetbsd-8
+/hal-probe-vmmouse.in/1.1.1.2/Sat May 22 09:48:32 2010//Tnetbsd-8
+/vmmouse_detect.c/1.1.1.2/Mon Jul 20 01:47:16 2015//Tnetbsd-8
+/vmmouse_iopl.c/1.1.1.1/Mon Jul 20 01:47:16 2015//Tnetbsd-8
+/vmmouse_udev.c/1.1.1.1/Mon Jul 20 01:47:16 2015//Tnetbsd-8
+D

@@ -1,0 +1,18 @@
+/Makefile.am/1.1.1.4/Fri May 31 07:18:29 2013//Tnetbsd-8
+/Makefile.in/1.1.1.9/Wed Apr 27 07:19:33 2016//Tnetbsd-8
+/buttonmap.c/1.1.1.4/Fri May 31 07:18:29 2013//Tnetbsd-8
+/feedback.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-8
+/hierarchy.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-8
+/list.c/1.1.1.7/Wed Jul 22 08:34:44 2015//Tnetbsd-8
+/property.c/1.1.1.7/Wed Apr 27 07:19:33 2016//Tnetbsd-8
+/setcp.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-8
+/setint.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-8
+/setmode.c/1.1.1.4/Fri May 31 07:18:29 2013//Tnetbsd-8
+/setptr.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-8
+/state.c/1.1.1.3/Fri May 31 07:18:29 2013//Tnetbsd-8
+/test.c/1.1.1.4/Wed Jul 22 08:34:44 2015//Tnetbsd-8
+/test_xi2.c/1.1.1.6/Wed Apr 27 07:19:33 2016//Tnetbsd-8
+/transform.c/1.1.1.2/Wed Jul 22 08:34:44 2015//Tnetbsd-8
+/xinput.c/1.4/Wed Jul 22 08:36:10 2015//Tnetbsd-8
+/xinput.h/1.1.1.4/Fri May 31 07:18:29 2013//Tnetbsd-8
+D

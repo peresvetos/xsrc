@@ -1,0 +1,14 @@
+/X68k.man/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/X68kConfig/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68k.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68kConfig.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68kFb.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68kGraph.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68kInit.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68kIo.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68kKbd.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68kKeyMap.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68kMouse.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68kReg.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x68kText.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+D

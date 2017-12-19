@@ -1,0 +1,12 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/debug.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/decode.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/fpu.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/ops.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/ops2.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/prim_ops.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/sys.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/validate.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/x86emu.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+D/x86emu////

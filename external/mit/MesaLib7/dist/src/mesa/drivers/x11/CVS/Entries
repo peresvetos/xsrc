@@ -1,0 +1,26 @@
+/Makefile/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/descrip.mms/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/fakeglx.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/fxmesa.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/glxapi.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/glxapi.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/glxheader.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/realglx.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/realglx.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xfonts.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xfonts.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xm_api.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xm_buffer.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xm_dd.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xm_glide.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xm_glide.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xm_image.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xm_image.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xm_line.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xm_span.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xm_tri.c/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xmesa.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xmesaP.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xmesa_x.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+/xmesa_xf86.h/1.1.1.1/Mon Jan  5 02:40:58 2015//Tnetbsd-8
+D

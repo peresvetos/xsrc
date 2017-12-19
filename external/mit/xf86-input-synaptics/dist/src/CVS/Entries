@@ -1,0 +1,14 @@
+/Makefile.am/1.1.1.2/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/Makefile.in/1.1.1.3/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/alpscomm.c/1.1.1.3/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/eventcomm.c/1.1.1.3/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/eventcomm.h/1.1.1.2/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/properties.c/1.1.1.3/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/ps2comm.c/1.1.1.3/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/ps2comm.h/1.1.1.2/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/psmcomm.c/1.1.1.3/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/synaptics.c/1.1.1.3/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/synapticsstr.h/1.1.1.3/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/synproto.c/1.1.1.1/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+/synproto.h/1.1.1.3/Wed Jun  5 01:02:26 2013//Tnetbsd-8
+D

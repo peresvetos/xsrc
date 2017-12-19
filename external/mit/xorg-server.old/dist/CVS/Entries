@@ -1,0 +1,44 @@
+/COPYING/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/ChangeLog/1.1.1.1/Thu Jun  9 09:07:55 2016//Tnetbsd-8
+/INSTALL/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/README/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/aclocal.m4/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/autogen.sh/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/compile/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/config.guess/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/config.sub/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/configure/1.1.1.1/Thu Jun  9 09:07:55 2016//Tnetbsd-8
+/configure.ac/1.2/Wed Mar  8 07:44:16 2017//Tnetbsd-8
+/depcomp/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/install-sh/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/ltmain.sh/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/manpages.am/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/missing/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/xorg-server.m4/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/xorg-server.pc.in/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+/ylwrap/1.1.1.1/Thu Jun  9 09:07:54 2016//Tnetbsd-8
+D/Xext////
+D/Xi////
+D/composite////
+D/config////
+D/damageext////
+D/dbe////
+D/dix////
+D/doc////
+D/exa////
+D/fb////
+D/glx////
+D/hw////
+D/include////
+D/m4////
+D/mi////
+D/miext////
+D/os////
+D/randr////
+D/record////
+D/render////
+D/test////
+D/xfixes////
+D/xkb////

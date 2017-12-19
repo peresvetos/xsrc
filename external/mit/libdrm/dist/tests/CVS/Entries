@@ -1,0 +1,19 @@
+/Makefile.am/1.1.1.8/Sat Mar  4 23:15:50 2017//Tnetbsd-8
+/Makefile.in/1.1.1.11/Sat Mar  4 23:15:50 2017//Tnetbsd-8
+/drmdevice.c/1.1.1.2/Sat Mar  4 23:15:50 2017//Tnetbsd-8
+/drmsl.c/1.1.1.1/Mon Jul 20 02:19:24 2015//Tnetbsd-8
+/hash.c/1.1.1.1/Mon Jul 20 02:19:24 2015//Tnetbsd-8
+/random.c/1.1.1.1/Mon Jul 20 02:19:24 2015//Tnetbsd-8
+D/amdgpu////
+D/etnaviv////
+D/exynos////
+D/kms////
+D/kmstest////
+D/modeprint////
+D/modetest////
+D/nouveau////
+D/proptest////
+D/radeon////
+D/tegra////
+D/util////
+D/vbltest////

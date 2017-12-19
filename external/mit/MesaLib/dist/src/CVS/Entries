@@ -1,0 +1,15 @@
+/Makefile.am/1.1.1.1/Thu Dec 18 06:02:06 2014//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Dec 18 06:02:06 2014//Tnetbsd-8
+/SConscript/1.1.1.2/Thu Dec 18 06:02:06 2014//Tnetbsd-8
+D/egl////
+D/gallium////
+D/gbm////
+D/getopt////
+D/glsl////
+D/glx////
+D/gtest////
+D/hgl////
+D/loader////
+D/mapi////
+D/mesa////
+D/util////

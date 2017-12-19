@@ -1,0 +1,10 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/evdev.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/keyboard.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/linux.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/mouse.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/ms.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/ps2.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/tslib.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+D

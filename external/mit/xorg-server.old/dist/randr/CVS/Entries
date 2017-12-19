@@ -1,0 +1,17 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/randr.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/randrstr.h/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrcrtc.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrdispatch.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrinfo.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrmode.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rroutput.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrpointer.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrproperty.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrscreen.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrsdispatch.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrtransform.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrtransform.h/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+/rrxinerama.c/1.1.1.1/Thu Jun  9 09:08:01 2016//Tnetbsd-8
+D

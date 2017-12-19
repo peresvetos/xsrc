@@ -1,0 +1,26 @@
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/libxorg.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/xorg.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/xorgconf.cpp/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+D/common////
+D/ddc////
+D/dixmods////
+D/doc////
+D/dri////
+D/dri2////
+D/exa////
+D/fbdevhw////
+D/i2c////
+D/int10////
+D/loader////
+D/modes////
+D/os-support////
+D/parser////
+D/ramdac////
+D/shadowfb////
+D/utils////
+D/vbe////
+D/vgahw////
+D/x86emu////
+D/xaa////

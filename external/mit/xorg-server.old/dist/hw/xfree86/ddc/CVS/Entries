@@ -1,0 +1,10 @@
+/DDC.HOWTO/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/Makefile.am/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/Makefile.in/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/ddc.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/ddcProperty.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/edid.h/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/interpret_edid.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/print_edid.c/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+/xf86DDC.h/1.1.1.1/Thu Jun  9 09:07:58 2016//Tnetbsd-8
+D

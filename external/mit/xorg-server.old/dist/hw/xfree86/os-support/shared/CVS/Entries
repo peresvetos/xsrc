@@ -1,0 +1,16 @@
+/VTsw_noop.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/VTsw_usl.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/agp_noop.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/bios_devmem.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/bios_mmap.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/ia64Pci.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/ioperm_noop.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/kmod_noop.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/pm_noop.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/posix_tty.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/sigio.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/sigiostubs.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/vidmem.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/xf86Axp.c/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+/xf86Axp.h/1.1.1.1/Thu Jun  9 09:07:59 2016//Tnetbsd-8
+D

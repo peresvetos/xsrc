@@ -1,0 +1,53 @@
+/README/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-8
+/TODO/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-8
+/bytecode.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-8
+/bytecode.h/1.1.1.1/Wed Jul 30 04:16:24 2008//Tnetbsd-8
+/compile.c/1.1.1.3/Sun Jul 19 19:37:29 2015//Tnetbsd-8
+/core.c/1.1.1.4/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/core.h/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-8
+/debugger.c/1.1.1.2/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/debugger.h/1.1.1.1/Wed Jul 30 04:16:27 2008//Tnetbsd-8
+/format.c/1.1.1.3/Sun Jul 19 19:37:29 2015//Tnetbsd-8
+/format.h/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-8
+/getenv.c/1.1.1.1/Fri May 31 06:13:21 2013//Tnetbsd-8
+/hash.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-8
+/hash.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-8
+/helper.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-8
+/helper.h/1.1.1.1/Wed Jul 30 04:16:25 2008//Tnetbsd-8
+/internal.h/1.2/Sun Feb 28 22:16:10 2016//Tnetbsd-8
+/io.c/1.1.1.4/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/io.h/1.1.1.2/Sun Jul 19 19:37:29 2015//Tnetbsd-8
+/lisp.c/1.1.1.4/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/lisp.h/1.1.1.2/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/lsp.c/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-8
+/math.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-8
+/math.h/1.1.1.1/Wed Jul 30 04:16:21 2008//Tnetbsd-8
+/mathimp.c/1.1.1.3/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/package.c/1.1.1.3/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/package.h/1.1.1.2/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/pathname.c/1.1.1.2/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/pathname.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-8
+/private.h/1.1.1.3/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/read.c/1.1.1.4/Sun Jul 19 19:37:29 2015//Tnetbsd-8
+/read.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-8
+/regex.c/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-8
+/regex.h/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-8
+/require.c/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-8
+/require.h/1.1.1.1/Wed Jul 30 04:16:21 2008//Tnetbsd-8
+/setenv.c/1.1.1.1/Fri May 31 06:13:21 2013//Tnetbsd-8
+/stream.c/1.1.1.3/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/stream.h/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-8
+/string.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-8
+/string.h/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-8
+/struct.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-8
+/struct.h/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-8
+/time.c/1.1.1.1/Wed Jul 30 04:16:21 2008//Tnetbsd-8
+/time.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-8
+/write.c/1.1.1.3/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/write.h/1.1.1.2/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/xedit.c/1.1.1.2/Sun Jul 19 19:37:31 2015//Tnetbsd-8
+/xedit.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-8
+D/modules////
+D/mp////
+D/re////
+D/test////

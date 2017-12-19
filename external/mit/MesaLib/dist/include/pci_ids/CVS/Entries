@@ -1,0 +1,10 @@
+/i810_pci_ids.h/1.1.1.1/Wed Jul  9 19:38:35 2014//Tnetbsd-8
+/i915_pci_ids.h/1.1.1.2/Thu Dec 18 06:02:11 2014//Tnetbsd-8
+/i965_pci_ids.h/1.1.1.2/Thu Dec 18 06:02:11 2014//Tnetbsd-8
+/r200_pci_ids.h/1.1.1.2/Thu Dec 18 06:02:11 2014//Tnetbsd-8
+/r300_pci_ids.h/1.1.1.2/Thu Dec 18 06:02:11 2014//Tnetbsd-8
+/r600_pci_ids.h/1.1.1.2/Thu Dec 18 06:02:11 2014//Tnetbsd-8
+/radeon_pci_ids.h/1.1.1.1/Wed Jul  9 19:38:35 2014//Tnetbsd-8
+/radeonsi_pci_ids.h/1.1.1.1/Thu Dec 18 06:02:11 2014//Tnetbsd-8
+/vmwgfx_pci_ids.h/1.1.1.1/Thu Dec 18 06:02:11 2014//Tnetbsd-8
+D
